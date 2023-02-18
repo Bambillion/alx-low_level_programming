@@ -1,13 +1,14 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <time.h>
+#include <ctype.h>
 
 /**
   * main - Entry point
   *
-  * Description: prints the alphabet in lowercase
+  * Description: The program prints the alphabet in lowercase
+  * and then in uppercase as well
   *
-  * Return: 0
+  * Return: returns 0
   */
 
 int main(void)
@@ -18,9 +19,10 @@ int main(void)
 	{
 		putchar(x);
 	}
+	for (x = 'A' ; x <= 'Z'; x++)
+	{
+		putchar(x);
+	}
 	putchar('\n');
 	return (0);
 }
-
-
-
