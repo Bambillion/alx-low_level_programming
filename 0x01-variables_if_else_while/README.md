@@ -14,4 +14,5 @@
 - **8-print_base16.c:** Write a program that prints all the numbers of base 16 in lowercase, followed by a new line with putchar() function
 - **9-print_comb.c:** Write a program that prints all possible combinations of single-digit numbers, Numbers must be separated by ",", followed by a space, numbers should be printed in ascending order using the putchar() function
 - **100-print_comb3.c:** Write a program that prints all possible different combinations of two digits, numbers must be seperated by ',' followed by a space the two digits must be different '01' and '10' are considered the same combination of two digits '0' and '1'. print only the smallest combination of two digits, numbers should be printed in ascending order with two digits
+- **101-print_comb4.c:** Write a program that prints all possible different combinations of three digits, Numbers must be separated by ',', followed by a space, the three digits must be different and print only the smallest combination of three digits, numbers should be printed in ascending order, with three digits
 
