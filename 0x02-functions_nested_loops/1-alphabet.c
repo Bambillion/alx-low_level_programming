@@ -2,9 +2,9 @@
 /**
   * print_alphabet - main entry
   *
-  * Description: function that prints 
+  * Description: function that prints
   * all the alphabet characters
-  * 
+  *
   * Return: (0)
   */
 
