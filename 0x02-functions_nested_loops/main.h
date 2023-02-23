@@ -52,5 +52,12 @@ int _isalpha(int c);
 
 int print_sign(int n);
 
+/**
+  * _abs - is a function that gets the absolute value
+  * of an integer
+  *
+  * Return: Always 0
+  */
 
+int _abs(int);
 #endif
