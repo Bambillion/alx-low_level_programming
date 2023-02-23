@@ -31,4 +31,13 @@ int _isupper(int c);
 
 int _isdigit(int c);
 
+/**
+  * mul - this function multiplies two integers
+  * @a: first integer to be multiplied
+  * @b: second integer to be multiplied
+  * Return: result
+  */
+
+int mul(int a, int b);
+
 #endif
