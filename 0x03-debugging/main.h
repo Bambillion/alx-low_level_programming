@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
-  * positive_or_negative - this function tests if a number 
+  * positive_or_negative - this function tests if a number
   * is positive or negative or zero
   *
   * @i: is the integer to be tested
