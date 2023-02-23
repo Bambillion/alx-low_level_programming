@@ -33,4 +33,24 @@ void print_alphabet_x10(void);
 
 int _islower(int c);
 
+/**
+  * _isalpha - is a function that checks if a character
+  * is an alphabet
+  *
+  * Return: 1 if it is lowercase or uppercase
+  */
+
+int _isalpha(int c);
+
+/**
+  * print_sign - is a function that prints the 
+  * sign of a number
+  *
+  * Return: 0 if n which is the number is zero and 
+  * return -1 if n is less than zero
+  */
+
+int print_sign(int n);
+
+
 #endif
