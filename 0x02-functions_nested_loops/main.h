@@ -71,5 +71,16 @@ int _abs(int);
 
 int print_last_digit(int);
 
+/**
+  * jack_bauer - is a function that prints the time
+  * from 00.00 - 23.59
+  *
+  * Return: Always 0
+  */
+
+void jack_bauer(void);
+
+
+
 
 #endif
