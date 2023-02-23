@@ -43,7 +43,7 @@ int mul(int a, int b);
 /**
   * print_numbers - print numbers from 0 to 9
   *
-  * Return: 0 always
+  * Return: nothing
   */
 
 void print_numbers(void);
@@ -51,9 +51,17 @@ void print_numbers(void);
 /**
   * print_most_numbers - print numbers from 0 to 9 except
   * '2' and '4'
-  * Return: 0 always
+  * Return: nothing
   */
 
 void print_most_numbers(void);
+
+/**
+  * more_numbers - print numbers from 0 to 14 x10 times
+  *
+  * Return: nothing
+  */
+
+void more_numbers(void);
 
 #endif
