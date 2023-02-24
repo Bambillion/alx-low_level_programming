@@ -64,4 +64,10 @@ void print_most_numbers(void);
 
 void more_numbers(void);
 
+/**
+  * print_line - is a function that draws a straight line
+  * @n: is the number of "_" character to be printed
+  */
+
+void print_line(int n);
 #endif
