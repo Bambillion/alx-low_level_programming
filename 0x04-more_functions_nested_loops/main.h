@@ -86,4 +86,11 @@ void print_diagonal(int n);
   */
 
 void print_square(int size);
+
+/**
+  * print_triangle - prints a triangle shaped structure
+  * @size: integer to determine sides
+  */
+
+void print_triangle(int size);
 #endif
