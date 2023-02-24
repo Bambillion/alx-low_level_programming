@@ -82,7 +82,7 @@ void print_diagonal(int n);
 
 /**
   * print_square - prints square
-  * @size - number of squares to print
+  * @size: number of squares to print
   */
 
 void print_square(int size);
