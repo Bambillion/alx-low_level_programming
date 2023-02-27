@@ -11,19 +11,19 @@
 int _putchar(char c);
 
 /**
-  * reset_to_98 - return the value of a 
+  * reset_to_98 - return the value of a
   * pointer
-  * @*n: the pointer parameter
+  * @n: the pointer parameter
   * Return: void
   */
 
 void reset_to_98(int *n);
 
 /**
-  * swap_int - swaps the values of 
+  * swap_int - swaps the values of
   * two integers
-  * @*a: first integer reference
-  * @*b: second integer reference
+  * @a: first integer reference
+  * @b: second integer reference
   */
 void swap_int(int *a, int *b);
 
@@ -41,4 +41,11 @@ int _strlen(char *s);
   */
 
 void _puts(char *str);
+
+/**
+  * print_rev - function that reverses a string
+  * @s: string to be reversed
+  */
+
+void print_rev(char *s);
 #endif
