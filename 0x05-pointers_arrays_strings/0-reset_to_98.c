@@ -2,7 +2,7 @@
 
 /**
   * reset_to_98 - entry point
-  * Description: function that updates the value 
+  * Description: function that updates the value
   * of the integer pointer to 98
   * @n: pointer integer
   * Return: void
