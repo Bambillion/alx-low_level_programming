@@ -34,9 +34,9 @@ int largest_number(int a, int b, int c);
 void print_remaining_days(int month, int day, int year);
 
 /**
-  * -converts day of month to day of year without 
+  * -converts day of month to day of year without
   * accounting for leap year
-  * @month: month in number 
+  * @month: month in number
   * @day: day of month
   * Return: day of year
   */
