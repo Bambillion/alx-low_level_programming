@@ -69,4 +69,13 @@ void puts2(char *str);
   */
 
 void puts_half(char *str);
+
+/**
+  * print_array - prints n elements of an arry
+  *
+  * @a: array pointer
+  * @n: number of elements to be printed
+  */
+
+void print_array(int *a, int n);
 #endif
