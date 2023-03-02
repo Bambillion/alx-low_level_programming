@@ -31,9 +31,21 @@ char *_strcat(char *dest, char *src);
   * of bytes set
   * @dest: destination string
   * @src: source string
-  * @n: byte size of 
+  * @n: byte size of size to be concatenated
   * Return: returns a pointer to dest
   */
 
 char *_strncat(char *dest, char *src, int n);
+
+/**
+  * _strncpy - copies a string from destination
+  * to source
+  * @dest: destination array
+  * @src: string array
+  * @n: byte size of src to be copied
+  * Return: returns pointer to dest
+  */
+
+char *_strncpy(char *dest, char *src, int n);
+
 #endif
