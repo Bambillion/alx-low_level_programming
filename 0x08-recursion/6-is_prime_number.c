@@ -9,7 +9,7 @@
 
 int _prime(int n, int div)
 {
-	if(n % div == 0)
+	if (n % div == 0)
 	{
 		if (n == div)
 			return (1);
