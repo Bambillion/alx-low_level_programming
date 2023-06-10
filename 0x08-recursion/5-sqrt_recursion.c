@@ -10,9 +10,9 @@
 int _sqrt(int n, int x)
 {
 	if (x * x > n)
-		return(-1);
+		return (-1);
 	if (x * x == n)
-		return(x);
+		return (x);
 
 	return (_sqrt(n, x + 1));
 }
